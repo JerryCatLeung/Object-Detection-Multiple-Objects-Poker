@@ -1,4 +1,4 @@
-# How To Train an Object Detection Classifier for Multiple Objects Using TensorFlow
+# Object-Detection-Multiple-Objects-Poker
 
 ## Brief Summary
 *Last updated: 4/8/2018 with TensorFlow v1.9*
